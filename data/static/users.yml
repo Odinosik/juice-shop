@@ -252,3 +252,35 @@
   securityQuestion:
     id: 10
     answer: "Used Ship Emporium" # https://monkeyisland.fandom.com/wiki/Stan_S._Stanman
+
+  email: hrobert
+  username: hrobert
+  password: 'Haslo#@1dsa'
+  key: hrobert
+  role: 'customer'
+  address: 
+    - fullName: 'Hubert C'
+      mobileNum: 1234567890
+      zipCode: '0662'
+      streetAddress: '0662 Koszykowa'
+      city: 'Warsaw'
+      state: 'Mazovian'
+      country: 'Poland'
+  card:
+    - fullName: 'Hubert C'
+      cardNum: 4716190207394444
+      expMonth: 1
+      expYear: 2090
+    - fullName: 'Hubert C'
+      cardNum: 4024007105648333
+      expMonth: 1
+      expYear: 2091
+-
+  email: bob
+  username: bob
+  password: 'B0Bek123CVx'
+  key: bob
+  role: 'admin'
+  securityQuestion:
+    id: 10
+    answer: "No cos tu jest ale co???"
